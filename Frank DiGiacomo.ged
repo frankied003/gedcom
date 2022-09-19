@@ -1,0 +1,336 @@
+1 NOTE Frank DiGiacomo 
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE My Family
+1 DATE 13 SEP 2022
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME frankied003@hotmail.com
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Frank /DiGiacomo/
+2 GIVN Frank
+2 SURN DiGiacomo
+2 _MARNM DiGiacomo III
+1 SEX M
+1 BIRT
+2 DATE 5 AUG 2000
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Doreen /Foster/
+2 GIVN Doreen
+2 SURN Foster
+2 _MARNM DiGiacomo
+1 SEX F
+1 BIRT
+2 DATE 11 AUG 1968
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I3@ INDI
+1 NAME Frank /DiGiacomo/
+2 GIVN Frank
+2 SURN DiGiacomo
+2 _MARNM DiGiacomo II
+1 SEX M
+1 BIRT
+2 DATE 21 OCT 1963
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I4@ INDI
+1 NAME Christina /DiGiacomo/
+2 GIVN Christina
+2 SURN DiGiacomo
+2 _MARNM DiGiacomo
+1 SEX F
+1 BIRT
+2 DATE 27 OCT 1994
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Amanda /DiGiacomo/
+2 GIVN Amanda
+2 SURN DiGiacomo
+2 _MARNM DiGiacomo
+1 SEX F
+1 BIRT
+2 DATE 4 AUG 1997
+1 FAMC @F1@
+0 @I6@ INDI
+1 NAME Danielle /DiGiacomo/
+2 GIVN Danielle
+2 SURN DiGiacomo
+2 _MARNM DiGiacomo
+1 SEX F
+1 BIRT
+2 DATE 7 NOV 1998
+1 FAMC @F1@
+0 @I7@ INDI
+1 NAME Nicholas /DiGiacomo/
+2 GIVN Nicholas
+2 SURN DiGiacomo
+2 _MARNM DiGiacomo
+1 SEX M
+1 BIRT
+2 DATE 10 DEC 2001
+1 FAMC @F1@
+0 @I8@ INDI
+1 NAME Edgar /Foster/
+2 GIVN Edgar
+2 SURN Foster
+2 _MARNM Foster
+1 SEX M
+1 BIRT
+2 DATE 18 NOV 1935
+1 DEAT Y
+2 DATE 27 OCT 1994
+1 FAMS @F2@
+0 @I9@ INDI
+1 NAME Maryann /D'agata/
+2 GIVN Maryann
+2 SURN D'agata
+2 _MARNM Foster
+1 SEX F
+1 BIRT
+2 DATE 11 MAR 1935
+1 DEAT Y
+2 DATE 12 JUL 1995
+1 FAMS @F2@
+0 @I10@ INDI
+1 NAME Christopher /Foster/
+2 GIVN Christopher
+2 SURN Foster
+2 _MARNM Foster
+1 SEX M
+1 BIRT
+2 DATE 7 MAR 1979
+1 FAMC @F2@
+0 @I11@ INDI
+1 NAME Frank /DiGiacomo/
+2 GIVN Frank
+2 SURN DiGiacomo
+2 _MARNM DiGiacomo
+1 SEX M
+1 BIRT
+2 DATE 13 JUL 1940
+1 FAMS @F3@
+0 @I12@ INDI
+1 NAME Dianne /Drapau/
+2 GIVN Dianne
+2 SURN Drapau
+2 _MARNM DiGiacomo
+1 SEX F
+1 BIRT
+2 DATE 5 JUN 1939
+1 FAMS @F3@
+1 FAMS @F4@
+0 @I13@ INDI
+1 NAME Nancy /DiGiacomo/
+2 GIVN Nancy
+2 SURN DiGiacomo
+2 _MARNM Pearson
+1 SEX F
+1 BIRT
+2 DATE 16 JUL 1960
+1 FAMS @F5@
+1 FAMC @F3@
+0 @I14@ INDI
+1 NAME Lisa /DiGiacomo/
+2 GIVN Lisa
+2 SURN DiGiacomo
+2 _MARNM Soverio
+1 SEX F
+1 BIRT
+2 DATE 7 NOV 1961
+1 FAMS @F6@
+1 FAMC @F3@
+0 @I15@ INDI
+1 NAME Donna /DiGiacomo/
+2 GIVN Donna
+2 SURN DiGiacomo
+2 _MARNM DeLaurentis
+1 SEX F
+1 BIRT
+2 DATE 14 MAR 1957
+1 FAMS @F7@
+1 FAMC @F3@
+0 @I16@ INDI
+1 NAME Joe /DeLaurentis/
+2 GIVN Joe
+2 SURN DeLaurentis
+2 _MARNM DeLaurentis
+1 SEX M
+1 BIRT
+2 DATE 7 AUG 1952
+1 FAMS @F7@
+0 @I17@ INDI
+1 NAME William /Pearson/
+2 GIVN William
+2 SURN Pearson
+2 _MARNM Pearson
+1 SEX M
+1 BIRT
+2 DATE 27 NOV 1952
+1 FAMS @F5@
+0 @I18@ INDI
+1 NAME Steven /Soverio/
+2 GIVN Steven
+2 SURN Soverio
+2 _MARNM Soverio
+1 SEX M
+1 BIRT
+2 DATE 21 OCT 1954
+1 FAMS @F6@
+0 @I19@ INDI
+1 NAME William /Pearson/
+2 GIVN William
+2 SURN Pearson
+2 _MARNM Pearson Jr.
+1 SEX M
+1 BIRT
+2 DATE 9 JUN 1992
+1 FAMC @F5@
+0 @I20@ INDI
+1 NAME Carley /Pearson/
+2 GIVN Carley
+2 SURN Pearson
+2 _MARNM Pearson
+1 SEX F
+1 BIRT
+2 DATE 5 MAY 1996
+1 FAMC @F5@
+0 @I21@ INDI
+1 NAME Steven /Soverio/
+2 GIVN Steven
+2 SURN Soverio
+2 _MARNM Soverio Jr.
+1 SEX M
+1 BIRT
+2 DATE 9 NOV 1996
+1 FAMC @F6@
+0 @I22@ INDI
+1 NAME Lauren /Soverio/
+2 GIVN Lauren
+2 SURN Soverio
+2 _MARNM Soverio
+1 SEX F
+1 BIRT
+2 DATE 7 JUN 1994
+1 FAMC @F6@
+0 @I23@ INDI
+1 NAME Rosie /DeLaurentis/
+2 GIVN Rosie
+2 SURN DeLaurentis
+2 _MARNM Defillips
+1 SEX F
+1 BIRT
+2 DATE 18 AUG 1987
+1 FAMC @F7@
+0 @I24@ INDI
+1 NAME Dawn /DeLaurentis/
+2 GIVN Dawn
+2 SURN DeLaurentis
+2 _MARNM Giordano
+1 SEX F
+1 BIRT
+2 DATE 9 APR 1989
+1 FAMC @F7@
+0 @I25@ INDI
+1 NAME Joey /DeLaurentis/
+2 GIVN Joey
+2 SURN DeLaurentis
+2 _MARNM DeLaurentis
+1 SEX M
+1 BIRT
+2 DATE 11 JUN 1990
+1 FAMC @F7@
+0 @I26@ INDI
+1 NAME Eddie /DeLaurentis/
+2 GIVN Eddie
+2 SURN DeLaurentis
+2 _MARNM DeLaurentis
+1 SEX M
+1 BIRT
+2 DATE 16 AUG 1991
+1 FAMC @F7@
+0 @I27@ INDI
+1 NAME Symond /Vinpoll/
+2 GIVN Symond
+2 SURN Vinpoll
+2 _MARNM Vinpoll
+1 SEX M
+1 BIRT
+2 DATE 9 SEP 1930
+1 DEAT Y
+2 DATE 13 MAY 2018
+1 FAMS @F4@
+0 @I28@ INDI
+1 NAME Richard /Vinpoll/
+2 GIVN Richard
+2 SURN Vinpoll
+2 _MARNM Vinpoll
+1 SEX M
+1 BIRT
+2 DATE 11 OCT 1972
+1 FAMC @F4@
+0 @F1@ FAM
+1 HUSB @I3@
+1 WIFE @I2@
+1 CHIL @I1@
+1 CHIL @I4@
+1 CHIL @I5@
+1 CHIL @I6@
+1 CHIL @I7@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F2@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I2@
+1 CHIL @I10@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F3@ FAM
+1 HUSB @I11@
+1 WIFE @I12@
+1 CHIL @I3@
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+1 MARR
+1 DIV
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F4@ FAM
+1 HUSB @I27@
+1 WIFE @I12@
+1 CHIL @I28@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F5@ FAM
+1 HUSB @I17@
+1 WIFE @I13@
+1 CHIL @I19@
+1 CHIL @I20@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F6@ FAM
+1 HUSB @I18@
+1 WIFE @I14@
+1 CHIL @I21@
+1 CHIL @I22@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F7@ FAM
+1 HUSB @I16@
+1 WIFE @I15@
+1 CHIL @I23@
+1 CHIL @I24@
+1 CHIL @I25@
+1 CHIL @I26@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 TRLR
