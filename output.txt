@@ -27,7 +27,7 @@
 --> 1 CHAR UTF-8
 <-- 1|CHAR|N|UTF-8 
 --> 0 @I1@ INDI
-<-- 0|@I1@|N|INDI 
+<-- 0|INDI|Y|@ I 1 @ 
 --> 1 NAME Frank /DiGiacomo/
 <-- 1|NAME|Y|Frank /DiGiacomo/ 
 --> 2 GIVN Frank
@@ -45,7 +45,7 @@
 --> 1 FAMC @F1@
 <-- 1|FAMC|Y|@F1@ 
 --> 0 @I2@ INDI
-<-- 0|@I2@|N|INDI 
+<-- 0|INDI|Y|@ I 2 @ 
 --> 1 NAME Doreen /Foster/
 <-- 1|NAME|Y|Doreen /Foster/ 
 --> 2 GIVN Doreen
@@ -65,7 +65,7 @@
 --> 1 FAMC @F2@
 <-- 1|FAMC|Y|@F2@ 
 --> 0 @I3@ INDI
-<-- 0|@I3@|N|INDI 
+<-- 0|INDI|Y|@ I 3 @ 
 --> 1 NAME Frank /DiGiacomo/
 <-- 1|NAME|Y|Frank /DiGiacomo/ 
 --> 2 GIVN Frank
@@ -85,7 +85,7 @@
 --> 1 FAMC @F3@
 <-- 1|FAMC|Y|@F3@ 
 --> 0 @I4@ INDI
-<-- 0|@I4@|N|INDI 
+<-- 0|INDI|Y|@ I 4 @ 
 --> 1 NAME Christina /DiGiacomo/
 <-- 1|NAME|Y|Christina /DiGiacomo/ 
 --> 2 GIVN Christina
@@ -103,7 +103,7 @@
 --> 1 FAMC @F1@
 <-- 1|FAMC|Y|@F1@ 
 --> 0 @I5@ INDI
-<-- 0|@I5@|N|INDI 
+<-- 0|INDI|Y|@ I 5 @ 
 --> 1 NAME Amanda /DiGiacomo/
 <-- 1|NAME|Y|Amanda /DiGiacomo/ 
 --> 2 GIVN Amanda
@@ -121,7 +121,7 @@
 --> 1 FAMC @F1@
 <-- 1|FAMC|Y|@F1@ 
 --> 0 @I6@ INDI
-<-- 0|@I6@|N|INDI 
+<-- 0|INDI|Y|@ I 6 @ 
 --> 1 NAME Danielle /DiGiacomo/
 <-- 1|NAME|Y|Danielle /DiGiacomo/ 
 --> 2 GIVN Danielle
@@ -139,7 +139,7 @@
 --> 1 FAMC @F1@
 <-- 1|FAMC|Y|@F1@ 
 --> 0 @I7@ INDI
-<-- 0|@I7@|N|INDI 
+<-- 0|INDI|Y|@ I 7 @ 
 --> 1 NAME Nicholas /DiGiacomo/
 <-- 1|NAME|Y|Nicholas /DiGiacomo/ 
 --> 2 GIVN Nicholas
@@ -157,7 +157,7 @@
 --> 1 FAMC @F1@
 <-- 1|FAMC|Y|@F1@ 
 --> 0 @I8@ INDI
-<-- 0|@I8@|N|INDI 
+<-- 0|INDI|Y|@ I 8 @ 
 --> 1 NAME Edgar /Foster/
 <-- 1|NAME|Y|Edgar /Foster/ 
 --> 2 GIVN Edgar
@@ -179,7 +179,7 @@
 --> 1 FAMS @F2@
 <-- 1|FAMS|Y|@F2@ 
 --> 0 @I9@ INDI
-<-- 0|@I9@|N|INDI 
+<-- 0|INDI|Y|@ I 9 @ 
 --> 1 NAME Maryann /D'agata/
 <-- 1|NAME|Y|Maryann /D'agata/ 
 --> 2 GIVN Maryann
@@ -201,7 +201,7 @@
 --> 1 FAMS @F2@
 <-- 1|FAMS|Y|@F2@ 
 --> 0 @I10@ INDI
-<-- 0|@I10@|N|INDI 
+<-- 0|INDI|Y|@ I 1 0 @ 
 --> 1 NAME Christopher /Foster/
 <-- 1|NAME|Y|Christopher /Foster/ 
 --> 2 GIVN Christopher
@@ -219,7 +219,7 @@
 --> 1 FAMC @F2@
 <-- 1|FAMC|Y|@F2@ 
 --> 0 @I11@ INDI
-<-- 0|@I11@|N|INDI 
+<-- 0|INDI|Y|@ I 1 1 @ 
 --> 1 NAME Frank /DiGiacomo/
 <-- 1|NAME|Y|Frank /DiGiacomo/ 
 --> 2 GIVN Frank
@@ -237,7 +237,7 @@
 --> 1 FAMS @F3@
 <-- 1|FAMS|Y|@F3@ 
 --> 0 @I12@ INDI
-<-- 0|@I12@|N|INDI 
+<-- 0|INDI|Y|@ I 1 2 @ 
 --> 1 NAME Dianne /Drapau/
 <-- 1|NAME|Y|Dianne /Drapau/ 
 --> 2 GIVN Dianne
@@ -257,7 +257,7 @@
 --> 1 FAMS @F4@
 <-- 1|FAMS|Y|@F4@ 
 --> 0 @I13@ INDI
-<-- 0|@I13@|N|INDI 
+<-- 0|INDI|Y|@ I 1 3 @ 
 --> 1 NAME Nancy /DiGiacomo/
 <-- 1|NAME|Y|Nancy /DiGiacomo/ 
 --> 2 GIVN Nancy
@@ -277,7 +277,7 @@
 --> 1 FAMC @F3@
 <-- 1|FAMC|Y|@F3@ 
 --> 0 @I14@ INDI
-<-- 0|@I14@|N|INDI 
+<-- 0|INDI|Y|@ I 1 4 @ 
 --> 1 NAME Lisa /DiGiacomo/
 <-- 1|NAME|Y|Lisa /DiGiacomo/ 
 --> 2 GIVN Lisa
@@ -297,7 +297,7 @@
 --> 1 FAMC @F3@
 <-- 1|FAMC|Y|@F3@ 
 --> 0 @I15@ INDI
-<-- 0|@I15@|N|INDI 
+<-- 0|INDI|Y|@ I 1 5 @ 
 --> 1 NAME Donna /DiGiacomo/
 <-- 1|NAME|Y|Donna /DiGiacomo/ 
 --> 2 GIVN Donna
@@ -317,7 +317,7 @@
 --> 1 FAMC @F3@
 <-- 1|FAMC|Y|@F3@ 
 --> 0 @I16@ INDI
-<-- 0|@I16@|N|INDI 
+<-- 0|INDI|Y|@ I 1 6 @ 
 --> 1 NAME Joe /DeLaurentis/
 <-- 1|NAME|Y|Joe /DeLaurentis/ 
 --> 2 GIVN Joe
@@ -335,7 +335,7 @@
 --> 1 FAMS @F7@
 <-- 1|FAMS|Y|@F7@ 
 --> 0 @I17@ INDI
-<-- 0|@I17@|N|INDI 
+<-- 0|INDI|Y|@ I 1 7 @ 
 --> 1 NAME William /Pearson/
 <-- 1|NAME|Y|William /Pearson/ 
 --> 2 GIVN William
@@ -353,7 +353,7 @@
 --> 1 FAMS @F5@
 <-- 1|FAMS|Y|@F5@ 
 --> 0 @I18@ INDI
-<-- 0|@I18@|N|INDI 
+<-- 0|INDI|Y|@ I 1 8 @ 
 --> 1 NAME Steven /Soverio/
 <-- 1|NAME|Y|Steven /Soverio/ 
 --> 2 GIVN Steven
@@ -371,7 +371,7 @@
 --> 1 FAMS @F6@
 <-- 1|FAMS|Y|@F6@ 
 --> 0 @I19@ INDI
-<-- 0|@I19@|N|INDI 
+<-- 0|INDI|Y|@ I 1 9 @ 
 --> 1 NAME William /Pearson/
 <-- 1|NAME|Y|William /Pearson/ 
 --> 2 GIVN William
@@ -389,7 +389,7 @@
 --> 1 FAMC @F5@
 <-- 1|FAMC|Y|@F5@ 
 --> 0 @I20@ INDI
-<-- 0|@I20@|N|INDI 
+<-- 0|INDI|Y|@ I 2 0 @ 
 --> 1 NAME Carley /Pearson/
 <-- 1|NAME|Y|Carley /Pearson/ 
 --> 2 GIVN Carley
@@ -407,7 +407,7 @@
 --> 1 FAMC @F5@
 <-- 1|FAMC|Y|@F5@ 
 --> 0 @I21@ INDI
-<-- 0|@I21@|N|INDI 
+<-- 0|INDI|Y|@ I 2 1 @ 
 --> 1 NAME Steven /Soverio/
 <-- 1|NAME|Y|Steven /Soverio/ 
 --> 2 GIVN Steven
@@ -425,7 +425,7 @@
 --> 1 FAMC @F6@
 <-- 1|FAMC|Y|@F6@ 
 --> 0 @I22@ INDI
-<-- 0|@I22@|N|INDI 
+<-- 0|INDI|Y|@ I 2 2 @ 
 --> 1 NAME Lauren /Soverio/
 <-- 1|NAME|Y|Lauren /Soverio/ 
 --> 2 GIVN Lauren
@@ -443,7 +443,7 @@
 --> 1 FAMC @F6@
 <-- 1|FAMC|Y|@F6@ 
 --> 0 @I23@ INDI
-<-- 0|@I23@|N|INDI 
+<-- 0|INDI|Y|@ I 2 3 @ 
 --> 1 NAME Rosie /DeLaurentis/
 <-- 1|NAME|Y|Rosie /DeLaurentis/ 
 --> 2 GIVN Rosie
@@ -461,7 +461,7 @@
 --> 1 FAMC @F7@
 <-- 1|FAMC|Y|@F7@ 
 --> 0 @I24@ INDI
-<-- 0|@I24@|N|INDI 
+<-- 0|INDI|Y|@ I 2 4 @ 
 --> 1 NAME Dawn /DeLaurentis/
 <-- 1|NAME|Y|Dawn /DeLaurentis/ 
 --> 2 GIVN Dawn
@@ -479,7 +479,7 @@
 --> 1 FAMC @F7@
 <-- 1|FAMC|Y|@F7@ 
 --> 0 @I25@ INDI
-<-- 0|@I25@|N|INDI 
+<-- 0|INDI|Y|@ I 2 5 @ 
 --> 1 NAME Joey /DeLaurentis/
 <-- 1|NAME|Y|Joey /DeLaurentis/ 
 --> 2 GIVN Joey
@@ -497,7 +497,7 @@
 --> 1 FAMC @F7@
 <-- 1|FAMC|Y|@F7@ 
 --> 0 @I26@ INDI
-<-- 0|@I26@|N|INDI 
+<-- 0|INDI|Y|@ I 2 6 @ 
 --> 1 NAME Eddie /DeLaurentis/
 <-- 1|NAME|Y|Eddie /DeLaurentis/ 
 --> 2 GIVN Eddie
@@ -515,7 +515,7 @@
 --> 1 FAMC @F7@
 <-- 1|FAMC|Y|@F7@ 
 --> 0 @I27@ INDI
-<-- 0|@I27@|N|INDI 
+<-- 0|INDI|Y|@ I 2 7 @ 
 --> 1 NAME Symond /Vinpoll/
 <-- 1|NAME|Y|Symond /Vinpoll/ 
 --> 2 GIVN Symond
@@ -537,7 +537,7 @@
 --> 1 FAMS @F4@
 <-- 1|FAMS|Y|@F4@ 
 --> 0 @I28@ INDI
-<-- 0|@I28@|N|INDI 
+<-- 0|INDI|Y|@ I 2 8 @ 
 --> 1 NAME Richard /Vinpoll/
 <-- 1|NAME|Y|Richard /Vinpoll/ 
 --> 2 GIVN Richard
@@ -555,7 +555,7 @@
 --> 1 FAMC @F4@
 <-- 1|FAMC|Y|@F4@ 
 --> 0 @F1@ FAM
-<-- 0|@F1@|N|FAM 
+<-- 0|FAM|Y|@ F 1 @ 
 --> 1 HUSB @I3@
 <-- 1|HUSB|Y|@I3@ 
 --> 1 WIFE @I2@
@@ -575,7 +575,7 @@
 --> 1 _PRIMARY Y
 <-- 1|_PRIMARY|N|Y 
 --> 0 @F2@ FAM
-<-- 0|@F2@|N|FAM 
+<-- 0|FAM|Y|@ F 2 @ 
 --> 1 HUSB @I8@
 <-- 1|HUSB|Y|@I8@ 
 --> 1 WIFE @I9@
@@ -589,7 +589,7 @@
 --> 1 _PRIMARY Y
 <-- 1|_PRIMARY|N|Y 
 --> 0 @F3@ FAM
-<-- 0|@F3@|N|FAM 
+<-- 0|FAM|Y|@ F 3 @ 
 --> 1 HUSB @I11@
 <-- 1|HUSB|Y|@I11@ 
 --> 1 WIFE @I12@
@@ -611,7 +611,7 @@
 --> 1 _PRIMARY Y
 <-- 1|_PRIMARY|N|Y 
 --> 0 @F4@ FAM
-<-- 0|@F4@|N|FAM 
+<-- 0|FAM|Y|@ F 4 @ 
 --> 1 HUSB @I27@
 <-- 1|HUSB|Y|@I27@ 
 --> 1 WIFE @I12@
@@ -623,7 +623,7 @@
 --> 1 _PRIMARY N
 <-- 1|_PRIMARY|N|N 
 --> 0 @F5@ FAM
-<-- 0|@F5@|N|FAM 
+<-- 0|FAM|Y|@ F 5 @ 
 --> 1 HUSB @I17@
 <-- 1|HUSB|Y|@I17@ 
 --> 1 WIFE @I13@
@@ -637,7 +637,7 @@
 --> 1 _PRIMARY Y
 <-- 1|_PRIMARY|N|Y 
 --> 0 @F6@ FAM
-<-- 0|@F6@|N|FAM 
+<-- 0|FAM|Y|@ F 6 @ 
 --> 1 HUSB @I18@
 <-- 1|HUSB|Y|@I18@ 
 --> 1 WIFE @I14@
@@ -651,7 +651,7 @@
 --> 1 _PRIMARY Y
 <-- 1|_PRIMARY|N|Y 
 --> 0 @F7@ FAM
-<-- 0|@F7@|N|FAM 
+<-- 0|FAM|Y|@ F 7 @ 
 --> 1 HUSB @I16@
 <-- 1|HUSB|Y|@I16@ 
 --> 1 WIFE @I15@

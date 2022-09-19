@@ -11,7 +11,7 @@ for input in gedcom_file:
     input_level = input_array[0].strip()
 
     valid = "N"
-    if input_array[2] in ["INDI", "FAM"]:
+    if len(input_array) > 2 and input_array[2] in ["INDI", "FAM"]:
         input_tag = input_array[2]
         arguments = input_array[1]
     else:
