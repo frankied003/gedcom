@@ -11,7 +11,12 @@ for input in gedcom_file:
     input_level = input_array[0].strip()
 
     valid = "N"
-    arguments = input_array[-len(input_array) + 2:]
+    if input_array[2] in ["INDI", "FAM"]:
+        input_tag = input_array[2]
+        arguments = input_array[1]
+    else:
+        arguments = input_array[-len(input_array) + 2:]
+        
     arguments_string = ''.join(str(x + " ") for x in arguments)
 
     if input_tag in key_words:
